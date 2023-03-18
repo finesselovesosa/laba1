@@ -1,0 +1,110 @@
+﻿  Lab1.cpp
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(31,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(91,2): error C2065: structstudent: необъявленный идентификатор
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(92,2): error C2062: тип "int" не требуется
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(96,11): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(96,19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(99,2): error C2059: синтаксическая ошибка: for
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(99,2): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(99,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(99,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(99,14): error C2086: int i: переопределение
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(97,6): message : см. объявление "i"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(99,16): error C2059: синтаксическая ошибка: <
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(99,22): error C2143: синтаксическая ошибка: отсутствие ";" перед "++"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(99,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(99,21): error C2086: int i: переопределение
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(97,6): message : см. объявление "i"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(99,22): error C2059: синтаксическая ошибка: ++
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(99,24): error C2059: синтаксическая ошибка: )
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(99,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(99,26): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(103,2): error C2059: синтаксическая ошибка: for
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(103,2): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(103,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(103,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(103,14): error C2086: int i: переопределение
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(97,6): message : см. объявление "i"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(103,16): error C2059: синтаксическая ошибка: <
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(103,22): error C2143: синтаксическая ошибка: отсутствие ";" перед "++"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(103,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(103,21): error C2086: int i: переопределение
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(97,6): message : см. объявление "i"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(103,22): error C2059: синтаксическая ошибка: ++
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(103,24): error C2059: синтаксическая ошибка: )
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(103,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(103,26): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(107,2): error C2059: синтаксическая ошибка: for
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(107,2): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(107,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(107,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(107,14): error C2086: int i: переопределение
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(97,6): message : см. объявление "i"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(107,16): error C2059: синтаксическая ошибка: <
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(107,22): error C2143: синтаксическая ошибка: отсутствие ";" перед "++"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(107,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(107,21): error C2086: int i: переопределение
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(97,6): message : см. объявление "i"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(107,22): error C2059: синтаксическая ошибка: ++
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(107,24): error C2059: синтаксическая ошибка: )
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(107,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(107,26): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(111,2): error C2059: синтаксическая ошибка: for
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(111,2): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(111,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(111,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(111,14): error C2086: int i: переопределение
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(97,6): message : см. объявление "i"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(111,16): error C2059: синтаксическая ошибка: <
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(111,22): error C2143: синтаксическая ошибка: отсутствие ";" перед "++"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(111,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(111,21): error C2086: int i: переопределение
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(97,6): message : см. объявление "i"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(111,22): error C2059: синтаксическая ошибка: ++
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(111,24): error C2059: синтаксическая ошибка: )
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(111,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(111,26): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(115,2): error C2059: синтаксическая ошибка: for
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(115,2): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(115,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(115,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(115,14): error C2086: int i: переопределение
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(97,6): message : см. объявление "i"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(115,16): error C2059: синтаксическая ошибка: <
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(115,22): error C2143: синтаксическая ошибка: отсутствие ";" перед "++"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(115,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(115,21): error C2086: int i: переопределение
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(97,6): message : см. объявление "i"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(115,22): error C2059: синтаксическая ошибка: ++
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(115,24): error C2059: синтаксическая ошибка: )
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(115,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(115,26): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(119,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(119,2): error C2365: printf: переопределение; предыдущим определением было "функция"
+D:\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h(950,37): message : см. объявление "printf"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(120,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(120,2): error C2365: printf: переопределение; предыдущим определением было "функция"
+D:\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h(950,37): message : см. объявление "printf"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(121,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(121,2): error C2365: scanf: переопределение; предыдущим определением было "функция"
+D:\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h(1276,37): message : см. объявление "scanf"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(122,2): error C2059: синтаксическая ошибка: for
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(122,2): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(122,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(122,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(122,14): error C2086: int i: переопределение
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(97,6): message : см. объявление "i"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(122,16): error C2059: синтаксическая ошибка: <
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(122,22): error C2143: синтаксическая ошибка: отсутствие ";" перед "++"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(122,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(122,21): error C2086: int i: переопределение
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(97,6): message : см. объявление "i"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(122,22): error C2059: синтаксическая ошибка: ++
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(122,24): error C2059: синтаксическая ошибка: )
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(122,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(122,26): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(128,11): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(128,2): warning C4273: getchar: несовместимое связывание dll
+D:\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h(311,26): message : см. предыдущее определение "getchar"
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(129,1): error C2059: синтаксическая ошибка: }
+C:\Users\zeros\source\repos\Lab1\Lab1\Lab1.cpp(129,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
